@@ -1,0 +1,8 @@
+Player’s Manual:
+We implement the player’s manual so that players can get more familiar with the commands and rules of different levels. In order to use the manual, the players can type “help” whenever they feel confused during playing this game.
+
+ScoreBoard:
+After the game is ended, both displays will display which player wins and their high scores respectively.
+
+Status Light:
+In the graphic display,  we establish two status lights on the top of the board to indicate the role of the players. The light will turn green if it’s one specific player’s turn.

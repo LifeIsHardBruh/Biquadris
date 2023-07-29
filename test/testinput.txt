@@ -1,0 +1,21 @@
+4levelu
+restart
+O
+dr
+dr
+2ri dr
+dr
+O
+4ri dr
+dr
+3leveldown
+6ri dr
+dr
+O
+8ri dr
+dr
+I
+cc
+12ri
+leveldo
+
